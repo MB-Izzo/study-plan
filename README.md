@@ -18,4 +18,3 @@
 ## Subjects
 * Network programming (sockets, game network)
 * C language
-* Cpp
