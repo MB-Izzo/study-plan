@@ -1,7 +1,7 @@
 on:
   push:
     branches: [main]
-    paths: ['readme.md']
+    paths: ['README.md']
 
 jobs:
   build:
