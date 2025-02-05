@@ -10,10 +10,13 @@ Table of Contents
   - [Videos](#videos)
 - [Sys admin](#sys-admin)
   - [Subjects](#subjects)
-- [Programming](#programming)
+- [General Programming](#general-programming)
   - [Subjects](#subjects-1)
-- [Testing](#testing)
   - [Websites](#websites-1)
+- [Graphics programming](#graphics-programming)
+  - [Websites](#websites-2)
+- [Testing](#testing)
+  - [Websites](#websites-3)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
