@@ -16,8 +16,15 @@ Table of Contents
 
 # Computer networking
 
+## Websites
+* [Beej guide to network programming](https://beej.us/guide/bgnet/)
+* [SSH Tunneling](https://iximiuz.com/en/posts/ssh-tunnels/)
+
 ## Books
-* Computer Networking: a Top Down Approach (book)
+* Computer Networking: a Top Down Approach 
+
+## Videos
+* [Free CCNA](https://www.youtube.com/playlist?list=PLxbwE86jKRgMpuZuLBivzlM8s2Dk5lXBQ)
 
 # Sys admin
 
@@ -31,3 +38,9 @@ Table of Contents
 ## Subjects
 * Network programming (sockets, game network)
 * C language
+
+# Testing
+
+## Websites
+
+* [Autotesting ground table](https://autotestingroundtable.com/)
