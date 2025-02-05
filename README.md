@@ -33,11 +33,19 @@ Table of Contents
 * Docker
 * VPN
 
-# Programming
+# General Programming
 
 ## Subjects
 * Network programming (sockets, game network)
 * C language
+
+## Websites
+* [Nature of code](https://natureofcode.com/)
+
+# Graphics programming
+
+## Websites
+* [Pikuma](https://pikuma.com/)
 
 # Testing
 
