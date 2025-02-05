@@ -5,11 +5,15 @@
 Table of Contents
 
 - [Computer networking](#computer-networking)
+  - [Websites](#websites)
   - [Books](#books)
+  - [Videos](#videos)
 - [Sys admin](#sys-admin)
   - [Subjects](#subjects)
 - [Programming](#programming)
   - [Subjects](#subjects-1)
+- [Testing](#testing)
+  - [Websites](#websites-1)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
