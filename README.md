@@ -59,3 +59,9 @@ Table of Contents
 ## Websites
 
 * [Autotesting ground table](https://autotestingroundtable.com/)
+
+# Algorithm
+
+## Videos
+
+* [The last algorithm course you will need (Primeagen)](https://www.youtube.com/watch?v=Lwr3-doAgaI)
