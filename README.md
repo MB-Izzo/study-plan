@@ -76,3 +76,9 @@ Table of Contents
 ## Videos
 
 * [The last algorithm course you will need (Primeagen)](https://www.youtube.com/watch?v=Lwr3-doAgaI)
+
+# Devops
+
+## Subjects
+
+* CI/CD
