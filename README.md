@@ -20,6 +20,8 @@ Table of Contents
   - [Websites](#websites-3)
 - [Algorithm](#algorithm)
   - [Videos](#videos-1)
+- [Devops](#devops)
+  - [Subjects](#subjects-2)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
