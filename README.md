@@ -17,6 +17,8 @@ Table of Contents
   - [Websites](#websites-2)
 - [Testing](#testing)
   - [Websites](#websites-3)
+- [Algorithm](#algorithm)
+  - [Videos](#videos-1)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
