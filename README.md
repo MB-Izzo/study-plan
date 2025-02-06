@@ -35,6 +35,7 @@ Table of Contents
 ## Videos
 * [Free CCNA](https://www.youtube.com/playlist?list=PLxbwE86jKRgMpuZuLBivzlM8s2Dk5lXBQ)
 
+
 # Sys admin
 
 ## Subjects
@@ -45,6 +46,7 @@ Table of Contents
 ## Books
 * [Unix and Linux system admin handbook](https://www.amazon.fr/UNIX-Linux-System-Administration-Handbook/dp/0134277554?crid=2FTPUATDOZ4XN&dib=eyJ2IjoiMSJ9.wZZXmwhJpEzKBnyLthelgQQoS7CDG0RWkNAyhQlMsPtPVFO0v5P6Hf8uvFFCUpoIJJzRtQIQ_jO7JjX9Y-PNErzPheP_Rg5QtMLBpzkk4jsI9-9TsCwILXOa9y7BKETmIlbpZoFWEo1B9tulxPHvLKNlAtc9xhErQ21wjfofSy4Llgf9u0WMjpEC_VrnI-_yUu3fHT2bMKwGEfAIjRaOhYj5naCNOKQpqp4XhVXF0UEnGTqD_GAqP8xesHljD31WESEesnWEyDnKQJ10QV4T5irqiNwzERfTNyHy532CQ2t_S1XELQp4I2R5bCZtJo4phoQJgTGXFm02eDUQzCetSZEiRIHY-WB_yvU0OOlhRBIEASb5rNw8JyBwHWveepN0a_C-3L0t98yJgZOsSsQBAvliyKAhgan_NAAdF4urt5BJi5fYd565_4x5pT8-VIHh.gwbIKTQGfYkDd5_9k4hhu0nwIpWHfb67kEVAIO2a9vw&dib_tag=se&keywords=unix+and+linux+system+administration+handbook&qid=1738831680&sprefix=linux+unix%2Caps%2C105&sr=8-1)
 
+
 # General Programming
 
 ## Subjects
@@ -54,16 +56,19 @@ Table of Contents
 ## Websites
 * [Nature of code](https://natureofcode.com/)
 
+
 # Graphics programming
 
 ## Websites
 * [Pikuma](https://pikuma.com/)
+
 
 # Testing
 
 ## Websites
 
 * [Autotesting ground table](https://autotestingroundtable.com/)
+
 
 # Algorithm
 
