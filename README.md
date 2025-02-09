@@ -93,3 +93,4 @@ Table of Contents
 ## Subjects
 
 * CI/CD
+* Git (more than the basics..)
