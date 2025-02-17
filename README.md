@@ -64,6 +64,8 @@ Table of Contents
 ## Subjects
 * Network programming (sockets, game network)
 * C language
+* [Make terminal game golang](https://youtu.be/Fyf-Wh4ckDk?si=fPcpHHWW7iVA2pFi)
+* [Emulate a CPU (c++)](https://youtu.be/qJgsuQoy9bc?si=6ovvk3O8EQOiBnDQ)
 
 ## Websites
 * [Nature of code](https://natureofcode.com/)
@@ -94,3 +96,5 @@ Table of Contents
 
 * CI/CD
 * Git (more than the basics..)
+* [How git works under the good](https://youtu.be/RxHJdapz2p0?si=huC1vuU87HOs6xW9)
+* [How to be git expert](https://youtu.be/hZS96dwKvt0?si=dpEpsxVRcPY00L_9)
