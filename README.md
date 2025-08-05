@@ -66,6 +66,8 @@ Table of Contents
 * C language
 * [Make terminal game golang](https://youtu.be/Fyf-Wh4ckDk?si=fPcpHHWW7iVA2pFi)
 * [Emulate a CPU (c++)](https://youtu.be/qJgsuQoy9bc?si=6ovvk3O8EQOiBnDQ)
+* [Scala](https://www.handsonscala.com/)
+* Python
 
 ## Websites
 * [Nature of code](https://natureofcode.com/)
