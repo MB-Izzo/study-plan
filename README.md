@@ -68,6 +68,7 @@ Table of Contents
 * [Emulate a CPU (c++)](https://youtu.be/qJgsuQoy9bc?si=6ovvk3O8EQOiBnDQ)
 * [Scala](https://www.handsonscala.com/)
 * Python
+* [From TCP to HTTP](https://www.youtube.com/watch?v=FknTw9bJsXM)
 
 ## Websites
 * [Nature of code](https://natureofcode.com/)
