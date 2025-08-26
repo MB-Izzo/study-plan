@@ -97,6 +97,10 @@ Table of Contents
 
 ## Subjects
 
+# Misc
+
+* [Project tutorials list](https://github.com/practical-tutorials/project-based-learning?tab=readme-ov-file)
+
 * CI/CD
 * Git (more than the basics..)
 * [How git works under the good](https://youtu.be/RxHJdapz2p0?si=huC1vuU87HOs6xW9)
