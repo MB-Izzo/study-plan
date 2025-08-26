@@ -24,6 +24,7 @@ Table of Contents
   - [Videos](#videos-2)
 - [Devops](#devops)
   - [Subjects](#subjects-2)
+- [Misc](#misc)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
