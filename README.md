@@ -109,3 +109,4 @@ Table of Contents
 * [LSP with golang](https://www.youtube.com/watch?v=YsdlcQoHqPY)
 * Make a parser (lsp related)
 * Create neovim plugin
+* [Roadmap.sh](https://roadmap.sh/)
