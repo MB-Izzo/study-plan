@@ -108,5 +108,6 @@ Table of Contents
 * [Project tutorials list](https://github.com/practical-tutorials/project-based-learning?tab=readme-ov-file)
 * [LSP with golang](https://www.youtube.com/watch?v=YsdlcQoHqPY)
 * Make a parser (lsp related)
+* Make an interpretor (go book) + [look at Marked (markdown parser simple)](https://github.com/markedjs/marked/tree/master)
 * Create neovim plugin
 * [Roadmap.sh](https://roadmap.sh/)
