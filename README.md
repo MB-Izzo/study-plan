@@ -111,3 +111,5 @@ Table of Contents
 * Make an interpretor (go book) + [look at Marked (markdown parser simple)](https://github.com/markedjs/marked/tree/master)
 * Create neovim plugin
 * [Roadmap.sh](https://roadmap.sh/)
+* [Github awesome game engine dev](https://github.com/stevinz/awesome-game-engine-dev)
+* [Engine programming io archive](https://web.archive.org/web/20250612065031/https://engine-programming.github.io/)
