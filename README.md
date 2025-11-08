@@ -28,6 +28,10 @@ Table of Contents
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
+# Game dev
+
+## Videos
+* [Dave Churchill game programming class](https://www.youtube.com/watch?v=WFMmE3i3VpY)
 
 # Computer networking
 
