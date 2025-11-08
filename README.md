@@ -4,15 +4,17 @@
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
 Table of Contents
 
+- [Game dev](#game-dev)
+  - [Videos](#videos)
 - [Computer networking](#computer-networking)
   - [Websites](#websites)
   - [Books](#books)
-  - [Videos](#videos)
+  - [Videos](#videos-1)
 - [Sys admin](#sys-admin)
   - [Subjects](#subjects)
   - [Websites](#websites-1)
   - [Books](#books-1)
-  - [Videos](#videos-1)
+  - [Videos](#videos-2)
 - [General Programming](#general-programming)
   - [Subjects](#subjects-1)
   - [Websites](#websites-2)
@@ -21,7 +23,7 @@ Table of Contents
 - [Testing](#testing)
   - [Websites](#websites-4)
 - [Algorithm](#algorithm)
-  - [Videos](#videos-2)
+  - [Videos](#videos-3)
 - [Devops](#devops)
   - [Subjects](#subjects-2)
 - [Misc](#misc)
