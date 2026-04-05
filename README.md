@@ -124,3 +124,4 @@ Table of Contents
 * [Github awesome game engine dev](https://github.com/stevinz/awesome-game-engine-dev)
 * [Engine programming io archive](https://web.archive.org/web/20250612065031/https://engine-programming.github.io/)
 * [Text editor in C, learn how terminal works](https://viewsourcecode.org/snaptoken/kilo/)
+* [Homing missiles math](https://blog.littlepolygon.com/posts/missile/)
