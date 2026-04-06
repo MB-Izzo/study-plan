@@ -125,3 +125,4 @@ Table of Contents
 * [Engine programming io archive](https://web.archive.org/web/20250612065031/https://engine-programming.github.io/)
 * [Text editor in C, learn how terminal works](https://viewsourcecode.org/snaptoken/kilo/)
 * [Homing missiles math](https://blog.littlepolygon.com/posts/missile/)
+* [Godot sprite stacking](https://www.connorwolf.com/post/sprite-stacking-in-godot)
