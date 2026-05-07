@@ -38,6 +38,7 @@ Table of Contents
 
 ## Websites
 * [Godot MMO Golang](https://www.tbat.me/projects/godot-golang-mmo-tutorial-series)
+* [Godot Multiplayer](https://ezcha.net/news/5-7-26-multiplayer-in-godot-is-easier-than-you-think)
 
 # Computer networking
 
