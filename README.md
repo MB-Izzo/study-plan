@@ -127,3 +127,4 @@ Table of Contents
 * [Text editor in C, learn how terminal works](https://viewsourcecode.org/snaptoken/kilo/)
 * [Homing missiles math](https://blog.littlepolygon.com/posts/missile/)
 * [Godot sprite stacking](https://www.connorwolf.com/post/sprite-stacking-in-godot)
+* [Virtual memory + nice articles](https://blog.codingconfessions.com/p/virtual-memory)
