@@ -128,3 +128,4 @@ Table of Contents
 * [Homing missiles math](https://blog.littlepolygon.com/posts/missile/)
 * [Godot sprite stacking](https://www.connorwolf.com/post/sprite-stacking-in-godot)
 * [Virtual memory + nice articles](https://blog.codingconfessions.com/p/virtual-memory)
+* [good tools no signup](https://fcksignups.com/)
