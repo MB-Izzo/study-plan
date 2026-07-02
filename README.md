@@ -129,3 +129,4 @@ Table of Contents
 * [Godot sprite stacking](https://www.connorwolf.com/post/sprite-stacking-in-godot)
 * [Virtual memory + nice articles](https://blog.codingconfessions.com/p/virtual-memory)
 * [good tools no signup](https://fcksignups.com/)
+* [Laws of ux](https://lawsofux.com/?utm_source=pickncraft.com)
