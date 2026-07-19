@@ -126,6 +126,7 @@ Table of Contents
 * [Engine programming io archive](https://web.archive.org/web/20250612065031/https://engine-programming.github.io/)
 * [Text editor in C, learn how terminal works](https://viewsourcecode.org/snaptoken/kilo/)
 * [Homing missiles math](https://blog.littlepolygon.com/posts/missile/)
+* [Godot render video like 2d/3d retro ps1](https://www.youtube.com/@cashewolddew/videos)
 * [Godot sprite stacking](https://www.connorwolf.com/post/sprite-stacking-in-godot)
 * [Virtual memory + nice articles](https://blog.codingconfessions.com/p/virtual-memory)
 * [good tools no signup](https://fcksignups.com/)
