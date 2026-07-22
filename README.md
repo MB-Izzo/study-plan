@@ -132,3 +132,4 @@ Table of Contents
 * [good tools no signup](https://fcksignups.com/)
 * [Laws of ux](https://lawsofux.com/?utm_source=pickncraft.com)
 * [Good godot tutorials for juice](https://www.youtube.com/@mrelipteach/videos)
+* [Godot procedural skeletal anim2d](https://www.youtube.com/watch?v=-sARVGcoZ0U)
