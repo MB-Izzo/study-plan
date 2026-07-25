@@ -135,3 +135,5 @@ Table of Contents
 * [Godot procedural skeletal anim2d](https://www.youtube.com/watch?v=-sARVGcoZ0U)
 * [2d procedural anim](https://www.youtube.com/watch?v=qlfh_rv6khY)
 * [softbody 2d](https://www.youtube.com/watch?v=GXh0Vxg7AnQ)
+* [Physics constraints](https://zalo.github.io/blog/constraints/)
+* [IK explained](https://zalo.github.io/blog/inverse-kinematics/)
