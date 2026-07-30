@@ -137,3 +137,4 @@ Table of Contents
 * [softbody 2d](https://www.youtube.com/watch?v=GXh0Vxg7AnQ)
 * [Physics constraints](https://zalo.github.io/blog/constraints/)
 * [IK explained](https://zalo.github.io/blog/inverse-kinematics/)
+* [Deep dive on godot code games](https://www.youtube.com/@howdy_official/videos)
